@@ -1,0 +1,1 @@
+PyStat module with basic classes and functions to deal with statistics
